@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Search Book</string>
+    <string-array name="MyBook">
+        <item>BookSun</item>
+        <item>WaterBook</item>
+        <item>GreenBook</item>
+        <item>PigBook</item>
+        <item>AntBook</item>
+        <item>RabbitBook</item>
+        <item>CatBook</item>
+        <item>DogBook</item>
+        <item>BirdBook</item>
+    </string-array>
+</resources>
